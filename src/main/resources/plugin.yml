@@ -1,0 +1,6 @@
+name: ColorPicker
+version: '${project.version}'
+main: tkachgeek.colorpicker.ColorPicker
+api-version: 1.17
+commands:
+  colorpicker:
